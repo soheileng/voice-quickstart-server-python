@@ -5,9 +5,9 @@ from twilio.jwt.access_token.grants import VoiceGrant
 from twilio.rest import Client
 from twilio.twiml.voice_response import VoiceResponse
 
-ACCOUNT_SID = 'AC***'
-API_KEY = 'SK***'
-API_KEY_SECRET = '***'
+ACCOUNT_SID = 'ACd6ca8641b11ebe706f28fc256c5347bc'
+API_KEY = 'SKcf7a7474099669d929880309b290c36f'
+API_KEY_SECRET = 'wOufOelvTrXv7qW2aMmZ1xswI8mXJdRv'
 PUSH_CREDENTIAL_SID = 'CR***'
 APP_SID = 'AP***'
 
